@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Exploring the Frontiers of Data Science & AI <br>🎓 Master’s Student in Artificial Intelligence at Troy University <br>🤝 🌱 Currently Diving Deep into Deep Learning <br>🤝 Seeking Collaboration & Growth Opportunities<br>💡 Skilled in: Python, Data Science, Artificial Intelligence <br> 🚀 Passionate About Turning Data into Intelligent Solutions.
+🔍 Exploring the Frontiers of Data Science & AI <br>🎓 Master’s Student in Artificial Intelligence at Troy University <br> 🌱 Currently Diving Deep into Deep Learning <br>🤝 Seeking Collaboration & Growth Opportunities<br>💡 Skilled in: Python, Data Science, Artificial Intelligence <br> 🚀 Passionate About Turning Data into Intelligent Solutions.
 
 
 ## 🌐 Socials:
